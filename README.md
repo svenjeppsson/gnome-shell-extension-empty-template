@@ -6,3 +6,4 @@ Actually it is a commonway to begin writing a new extension for gnome-shell by e
 gnome-shell-extension-tool --create-extension
 ```
 But for learning the development of a gnome-shell extension i prefer to see the minimal structure of an project.
+This projects should show it.
