@@ -2,16 +2,6 @@
   "name": "TheNameOfMyExtension",
   "description": "The Description of my Extension",
   "shell-version": [
-  "3.8",
-  "3.10",
-  "3.12",
-  "3.14",
-  "3.16",
-  "3.18",
-  "3.20",
-  "3.22",
-  "3.24",
-  "3.26",
   "3.28"
 ],
   "uuid": "TheNameOfMyExtension@xthinker.de",
